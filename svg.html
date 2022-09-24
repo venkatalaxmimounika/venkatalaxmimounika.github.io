@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="style.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="inner-width">
+                <img src="uiclogo1.png">
+                <nav class="navigation">
+                    <a href="index.html"><i class = "fas fa-home home"></i>Home</a>
+                    <a href="sources.html"><i class = "nav_sources"></i>Sources Used</a>
+                    <a href="visualization.html"><i class = "nav_visual"></i>Visualization</a>
+                    <a href="svg.html"><i class = "nav_svg"></i>Svg</a>
+                    <a href="vizd3.html"><i class = "fas fa-home home"></i>Homework2</a>
+                </nav>
+            </div>
+        </header>
+        <h1 class = "svg_h1"> Geometric shapes</h1>
+        <h3 class = "svg_h3">click on the svg to change color</h3>
+        <div class="main_svg">
+            <section class = "about_svg">
+                <div class="main_svg">
+                    <div class="row_svg">
+                        <div class="column_svg">
+                            <svg class="svg_shapes">
+                                <script type="text/JavaScript">
+                                    <![CDATA[
+                                    function changeRect(){
+                                        if(document.getElementById("rect").getAttributeNS(null,"fill")=='pink'){
+                                            document.getElementById("rect").setAttributeNS(null,"fill","yellow");
+                                        }
+                                        else{
+                                            document.getElementById("rect").setAttributeNS(null,"fill","pink");
+                                    }}
+                                    ]]>
+                                </script>
+                                <rect id="rect" width="150" height="100" fill='pink' stroke='purple' stroke-width="2" onclick="changeRect(event)"/>
+                            </svg>
+                        </div>
+                        <div class="column_svg">
+                            <svg class="svg_shapes">
+                                <script type="text/JavaScript">
+                                    <![CDATA[
+                                    function changeecllipse(){
+                                        if(document.getElementById("ellipse").getAttributeNS(null,"fill")=='pink'){
+                                            document.getElementById("ellipse").setAttributeNS(null,"fill","yellow");
+                                        }
+                                        else{
+                                            document.getElementById("ellipse").setAttributeNS(null,"fill","pink");
+                                    }}
+                                    ]]>
+                                </script>
+                                <ellipse id="ellipse" cx="140" cy="55" rx="100" ry="50" fill='pink' stroke='purple' stroke-width="2" onclick="changeecllipse(event)"/>
+                            </svg>
+                        </div>
+                        <div class="column_svg">
+                            <svg class="svg_shapes">
+                                <script type="text/JavaScript">
+                                    <![CDATA[
+                                    function changecircle(){
+                                        if(document.getElementById("circle").getAttributeNS(null,"fill")=='pink'){
+                                            document.getElementById("circle").setAttributeNS(null,"fill","yellow");
+                                        }
+                                        else{
+                                            document.getElementById("circle").setAttributeNS(null,"fill","pink");
+                                    }}
+                                    ]]>
+                                </script>
+                                <circle id="circle" cx="150" cy="50" r="45" fill='pink' stroke='purple' stroke-width="2" onclick="changecircle (event)"/>
+                            </svg>
+                        </div>
+                    </div>
+                        
+                </div>
+            </section>
+        </div>
+    </body>
+</html>
