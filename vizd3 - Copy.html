@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Venkata Laxmi Mounika Batchu</title>
+  <link rel="stylesheet" href="hw2.css">
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+    <header>
+        <div class="inner-width">
+            <img src="uiclogo1.png">
+            <nav class="navigation">
+                <a href="index.html"><i class = "fas fa-home home"></i>Home</a>
+                <a href="aboutproject.html"><i class = "nav_sources"></i>ABout</a>
+                <a href="blackhat.html"><i class = "nav_visual"></i>black hat</a>
+                <a href="vizd3.html"><i class = "fas fa-home home"></i>Homework2</a>
+                <a href="bargraph.html"><i class = "fas fa-home home"></i>bargraph</a>
+            </nav>
+        </div>
+    </header>
+    
+  <h1> Slate Gun Death in the US Report</h1>
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://unpkg.com/topojson@3"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+		<script src = "test1.js"></script>
+
+	</script>
+  
+  <div>
+  <br>
+  <button onclick="spikes()">Total Deaths per city</button>
+  <button onclick="males()">Male Deaths per state</button>
+  <button onclick="females()">Female Deaths per state</button>
+  <button onclick="ages()">Average age of people died per state</button>
+   
+  </br>
+  <br>
+    <p>Hover on spikes</p>
+
+</div>
+	<svg id = 'map' style=" width: 1000; height: 1000;"></svg>
+  
+  	
+</body>
+</html>

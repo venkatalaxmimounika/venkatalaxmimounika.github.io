@@ -1,0 +1,512 @@
+[
+ {
+   "FIELD1": 0,
+   "state": "LA",
+   "lat": 29.9746502,
+   "lng": "-92.1342921",
+   "males": 369,
+   "females": 51,
+   "total": 420,
+   "state_name": "Louisiana"
+ },
+ {
+   "FIELD1": 1,
+   "state": "SC",
+   "lat": 34.1781719,
+   "lng": "-82.3790148",
+   "males": 176,
+   "females": 59,
+   "total": 235,
+   "state_name": "South Carolina"
+ },
+ {
+   "FIELD1": 2,
+   "state": "MD",
+   "lat": 39.5095556,
+   "lng": "-76.1641197",
+   "males": 295,
+   "females": 35,
+   "total": 330,
+   "state_name": "Maryland"
+ },
+ {
+   "FIELD1": 3,
+   "state": "NC",
+   "lat": 35.131547,
+   "lng": "-79.4294789",
+   "males": 359,
+   "females": 79,
+   "total": 438,
+   "state_name": "North Carolina"
+ },
+ {
+   "FIELD1": 4,
+   "state": "SD",
+   "lat": 45.4646985,
+   "lng": "-98.4864829",
+   "males": 16,
+   "females": 1,
+   "total": 17,
+   "state_name": "South Dakota"
+ },
+ {
+   "FIELD1": 5,
+   "state": "TX",
+   "lat": 32.4838865,
+   "lng": "-99.7156495680329",
+   "males": 806,
+   "females": 176,
+   "total": 982,
+   "state_name": "Texas"
+ },
+ {
+   "FIELD1": 6,
+   "state": "MT",
+   "lat": 45.5204982,
+   "lng": "-109.4429444",
+   "males": 31,
+   "females": 1,
+   "total": 32,
+   "state_name": "Montana"
+ },
+ {
+   "FIELD1": 7,
+   "state": "CA",
+   "lat": 38.1746398,
+   "lng": "-121.2785588",
+   "males": 1281,
+   "females": 160,
+   "total": 1441,
+   "state_name": "California"
+ },
+ {
+   "FIELD1": 8,
+   "state": "PA",
+   "lat": 40.1103542,
+   "lng": "-79.0689168",
+   "males": 492,
+   "females": 77,
+   "total": 569,
+   "state_name": "Pennsylvania"
+ },
+ {
+   "FIELD1": 9,
+   "state": "GA",
+   "lat": 34.0659329,
+   "lng": "-84.6768796",
+   "males": 316,
+   "females": 70,
+   "total": 386,
+   "state_name": "Georgia"
+ },
+ {
+   "FIELD1": 10,
+   "state": "CO",
+   "lat": 39.8714085,
+   "lng": "-104.2701374",
+   "males": 106,
+   "females": 39,
+   "total": 145,
+   "state_name": "Colorado"
+ },
+ {
+   "FIELD1": 11,
+   "state": "MO",
+   "lat": 37.1044958,
+   "lng": "-89.9106494",
+   "males": 292,
+   "females": 59,
+   "total": 351,
+   "state_name": "Missouri"
+ },
+ {
+   "FIELD1": 12,
+   "state": "VA",
+   "lat": 38.0323598,
+   "lng": "-78.839189",
+   "males": 234,
+   "females": 46,
+   "total": 280,
+   "state_name": "Virginia"
+ },
+ {
+   "FIELD1": 13,
+   "state": "AZ",
+   "lat": 33.3417137,
+   "lng": "-111.984033",
+   "males": 208,
+   "females": 40,
+   "total": 248,
+   "state_name": "Arizona"
+ },
+ {
+   "FIELD1": 14,
+   "state": "OH",
+   "lat": 41.0814447,
+   "lng": "-81.5190053",
+   "males": 421,
+   "females": 74,
+   "total": 495,
+   "state_name": "Ohio"
+ },
+ {
+   "FIELD1": 15,
+   "state": "NY",
+   "lat": 42.6511674,
+   "lng": "-73.754968",
+   "males": 329,
+   "females": 49,
+   "total": 378,
+   "state_name": "New York"
+ },
+ {
+   "FIELD1": 16,
+   "state": "OR",
+   "lat": 44.6365071,
+   "lng": "-123.1059324",
+   "males": 66,
+   "females": 19,
+   "total": 85,
+   "state_name": "Oregon"
+ },
+ {
+   "FIELD1": 17,
+   "state": "MI",
+   "lat": 42.37090955,
+   "lng": "-83.0771189635487",
+   "males": 409,
+   "females": 77,
+   "total": 486,
+   "state_name": "Michigan"
+ },
+ {
+   "FIELD1": 18,
+   "state": "AL",
+   "lat": 34.266641,
+   "lng": "-86.1995994934882",
+   "males": 228,
+   "females": 42,
+   "total": 270,
+   "state_name": "Alabama"
+ },
+ {
+   "FIELD1": 19,
+   "state": "NM",
+   "lat": 35.0877555,
+   "lng": "-106.737170962904",
+   "males": 69,
+   "females": 19,
+   "total": 88,
+   "state_name": "New Mexico"
+ },
+ {
+   "FIELD1": 20,
+   "state": "TN",
+   "lat": 35.7895271,
+   "lng": "-83.9737935",
+   "males": 237,
+   "females": 48,
+   "total": 285,
+   "state_name": "Tennessee"
+ },
+ {
+   "FIELD1": 21,
+   "state": "IA",
+   "lat": 43.0699663,
+   "lng": "-94.233019",
+   "males": 47,
+   "females": 9,
+   "total": 56,
+   "state_name": "Iowa"
+ },
+ {
+   "FIELD1": 22,
+   "state": "AR",
+   "lat": 35.4953205,
+   "lng": "-94.2336577705188",
+   "males": 110,
+   "females": 23,
+   "total": 133,
+   "state_name": "Arkansas"
+ },
+ {
+   "FIELD1": 23,
+   "state": "IL",
+   "lat": 38.589773,
+   "lng": "-90.1201087",
+   "males": 552,
+   "females": 63,
+   "total": 615,
+   "state_name": "Illinois"
+ },
+ {
+   "FIELD1": 24,
+   "state": "KY",
+   "lat": 37.3809251,
+   "lng": "-83.3821253",
+   "males": 139,
+   "females": 39,
+   "total": 178,
+   "state_name": "Kentucky"
+ },
+ {
+   "FIELD1": 25,
+   "state": "UT",
+   "lat": 40.3768954,
+   "lng": "-111.7957645",
+   "males": 41,
+   "females": 13,
+   "total": 54,
+   "state_name": "Utah"
+ },
+ {
+   "FIELD1": 26,
+   "state": "OK",
+   "lat": 35.072562,
+   "lng": "-98.2436626",
+   "males": 148,
+   "females": 35,
+   "total": 183,
+   "state_name": "Oklahoma"
+ },
+ {
+   "FIELD1": 27,
+   "state": "AK",
+   "lat": 61.218056,
+   "lng": "-149.9002806",
+   "males": 25,
+   "females": 8,
+   "total": 33,
+   "state_name": "Alaska"
+ },
+ {
+   "FIELD1": 28,
+   "state": "IN",
+   "lat": 40.1053196,
+   "lng": "-85.6802541",
+   "males": 296,
+   "females": 43,
+   "total": 339,
+   "state_name": "Indiana"
+ },
+ {
+   "FIELD1": 29,
+   "state": "FL",
+   "lat": 28.741245,
+   "lng": "-81.53442926981859",
+   "males": 633,
+   "females": 136,
+   "total": 769,
+   "state_name": "Florida"
+ },
+ {
+   "FIELD1": 30,
+   "state": "WI",
+   "lat": 44.2611337,
+   "lng": "-88.4067604",
+   "males": 138,
+   "females": 28,
+   "total": 166,
+   "state_name": "Wisconsin"
+ },
+ {
+   "FIELD1": 31,
+   "state": "DE",
+   "lat": 39.81542705,
+   "lng": "-75.4910163200517",
+   "males": 33,
+   "females": 8,
+   "total": 41,
+   "state_name": "Delaware"
+ },
+ {
+   "FIELD1": 32,
+   "state": "NJ",
+   "lat": 40.2203907,
+   "lng": "-74.0120817",
+   "males": 252,
+   "females": 25,
+   "total": 277,
+   "state_name": "New Jersey"
+ },
+ {
+   "FIELD1": 33,
+   "state": "CT",
+   "lat": 41.8731532,
+   "lng": "-72.1214653",
+   "males": 83,
+   "females": 27,
+   "total": 110,
+   "state_name": "Connecticut"
+ },
+ {
+   "FIELD1": 34,
+   "state": "MA",
+   "lat": 41.9250996,
+   "lng": "-71.3494994",
+   "males": 87,
+   "females": 11,
+   "total": 98,
+   "state_name": "Massachusetts"
+ },
+ {
+   "FIELD1": 35,
+   "state": "WA",
+   "lat": 47.3073905,
+   "lng": "-122.229805",
+   "males": 126,
+   "females": 17,
+   "total": 143,
+   "state_name": "Washington"
+ },
+ {
+   "FIELD1": 36,
+   "state": "KS",
+   "lat": 37.6866844,
+   "lng": "-96.9767024",
+   "males": 90,
+   "females": 21,
+   "total": 111,
+   "state_name": "Kansas"
+ },
+ {
+   "FIELD1": 37,
+   "state": "WV",
+   "lat": 38.4095298,
+   "lng": "-82.2945923",
+   "males": 56,
+   "females": 9,
+   "total": 65,
+   "state_name": "West Virginia"
+ },
+ {
+   "FIELD1": 38,
+   "state": "MS",
+   "lat": 31.4965591,
+   "lng": "-89.7395195",
+   "males": 110,
+   "females": 29,
+   "total": 139,
+   "state_name": "Mississippi"
+ },
+ {
+   "FIELD1": 39,
+   "state": "NE",
+   "lat": 41.9994496,
+   "lng": "-97.5983892",
+   "males": 48,
+   "females": 6,
+   "total": 54,
+   "state_name": "Nebraska"
+ },
+ {
+   "FIELD1": 40,
+   "state": "ND",
+   "lat": 48.8391769,
+   "lng": "-99.7448737",
+   "males": 7,
+   "females": 1,
+   "total": 8,
+   "state_name": "North Dakota"
+ },
+ {
+   "FIELD1": 41,
+   "state": "MN",
+   "lat": 47.976307,
+   "lng": "-94.8402433272128",
+   "males": 91,
+   "females": 14,
+   "total": 105,
+   "state_name": "Minnesota"
+ },
+ {
+   "FIELD1": 42,
+   "state": "ME",
+   "lat": 43.4925843,
+   "lng": "-70.4533844",
+   "males": 21,
+   "females": 5,
+   "total": 26,
+   "state_name": "Maine"
+ },
+ {
+   "FIELD1": 43,
+   "state": "HI",
+   "lat": 19.3453191,
+   "lng": "-154.9804739",
+   "males": 7,
+   "females": 6,
+   "total": 13,
+   "state_name": "Hawaii"
+ },
+ {
+   "FIELD1": 44,
+   "state": "ID",
+   "lat": 43.615046,
+   "lng": "-116.2044429",
+   "males": 23,
+   "females": 5,
+   "total": 28,
+   "state_name": "Idaho"
+ },
+ {
+   "FIELD1": 45,
+   "state": "NV",
+   "lat": 35.9785912,
+   "lng": "-114.8324851",
+   "males": 99,
+   "females": 22,
+   "total": 121,
+   "state_name": "Nevada"
+ },
+ {
+   "FIELD1": 46,
+   "state": "VT",
+   "lat": 44.4723989,
+   "lng": "-73.2114941",
+   "males": 11,
+   "females": 4,
+   "total": 15,
+   "state_name": "Vermont"
+ },
+ {
+   "FIELD1": 47,
+   "state": "WY",
+   "lat": 42.866632,
+   "lng": "-106.313081",
+   "males": 10,
+   "females": 6,
+   "total": 16,
+   "state_name": "Wyoming"
+ },
+ {
+   "FIELD1": 48,
+   "state": "RI",
+   "lat": 41.9667656,
+   "lng": "-71.4328363",
+   "males": 19,
+   "females": 6,
+   "total": 25,
+   "state_name": "Rhode Island"
+ },
+ {
+   "FIELD1": 49,
+   "state": "NH",
+   "lat": 42.9125877,
+   "lng": "-71.124504",
+   "males": 13,
+   "females": 1,
+   "total": 14,
+   "state_name": "New Hampshire"
+ },
+ {
+   "FIELD1": 50,
+   "state": "DC",
+   "lat": 38.8951148,
+   "lng": "-77.0363716",
+   "males": 96,
+   "females": 8,
+   "total": 104,
+   "state_name": "Dist. of Columbia"
+ }
+]
