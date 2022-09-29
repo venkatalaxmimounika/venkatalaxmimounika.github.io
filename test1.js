@@ -583,7 +583,7 @@ legend
         return `
         <div class = 'd3-tip' style='background:black;font-size: small'><span style='color:white; margin-top: 5px; margin-left: 5px; margin-right: 5px'><strong>State:</strong> 
         ${d.state}</span><br/>
-        <span style='color:white; margin-top: 5px; margin-left: 5px; margin-right: 5px'><strong>Male:</strong> 
+        <span style='color:white; margin-top: 5px; margin-left: 5px; margin-right: 5px'><strong>Average age:</strong> 
             ${Math.round(d.age)}
             </span>
             `
