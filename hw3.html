@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+        <meta charset="utf-8">
+        <title>Venkata Laxmi Mounika Batchu</title>
+        <!-- <link rel="stylesheet" href="hw2.css">
+        <link rel="stylesheet" href="style.css"> -->
+        <link rel="shortcut icon" href="#">
+        <link rel="stylesheet" href="hw2.css">
+  <link rel="stylesheet" href="style.css">
+        <script type = 'module' src="./three.js"></script>
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.9/dat.gui.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+</head>
+
+<body>
+        <header>
+                <div class="inner-width">
+                    <img src="uiclogo1.png">
+                    <nav class="navigation">
+                        <a href="index.html"><i class = "fas fa-home home"></i>Home</a>
+                        <a href="aboutproject.html"><i class = "nav_sources"></i>ABout</a>
+                        <a href="blackhat.html"><i class = "nav_visual"></i>black hat</a>
+                        <a href="vizd3.html"><i class = "fas fa-home home"></i>Homework2</a>
+                        <a href="bargraph.html"><i class = "fas fa-home home"></i>bargraph</a>
+                        <a href="hw3.html"><i class = "fas fa-home home"></i>Homework3</a>
+                    </nav>
+                </div>
+            </header>
+       
+            <div>
+        
+                <canvas class="scene" style="width: 600px; height: 600px;"></canvas>
+                
+                <svg id = "d3_scatter" width = 600 height = 600></svg>
+        </div>
+        <script type = 'module' src="./scene.js"></script>
+        <script type = 'module' src="./particleSystem.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/2.13.0/d3-legend.js"></script>
+        <div class = "row1">
+                <div class="sliderDiv col-md-6">
+                        <p>Z Position</p>
+                        <input type="range" min="0" max="10" step = "0.1" value="0" id="zSlider"/>
+                        <p>Value :<span id="zValue"></span></p>
+                        <h2>References and LICENSE</h2>
+                        <ul>
+                            <li><a href="https://github.com/d3/d3/blob/master/LICENSE&quot;">D3.js</a></li>
+                            <li><a href="https://threejs.org/">THREE.js</a></li>
+                            <a href="https://threejs.org/"></a>
+                            <li><a href="https://threejs.org/build/three.js">Three js</a></li>
+                        <li><a href="https://github.com/uic-evl/cs529-vds">Multiple</a></li>
+                        <li><a href="https://threejs.org/docs/#api/en/objects/Points">Point cloud</a></li>
+                        <li><a href="https://stackoverflow.com/questions/66225871/how-to-give-each-point-its-own-color-in-threejs">Color Map</a></li>
+                        <li><a href="https://www.w3schools.com/jsref/jsref_filter.asp">Filtering</a></li>
+                        <li><a href="https://www.d3indepth.com/scales/">Color</a></li>
+                        <li><a href="https://threejs.org/docs/#examples/en/controls/OrbitControls">Rotation</a></li>
+                        <li><a href="https://threejs.org/docs/#api/en/geometries/PlaneGeometry">Plane</a></li>
+                        <li><a href="https://observablehq.com/@d3/color-legend">Legend</a></li>
+                        <li><a href="https://threejs.org/docs/#manual/en/introduction/How-to-update-things">Brushing</a></li>
+
+                        </ul>
+                        
+                </div>
+                
+        </div>
+       
+</body>
+
+</html>
