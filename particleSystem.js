@@ -1,4 +1,5 @@
 import {scene} from './scene.js'
+import * as THREE from './three.js'
 
 /* Get or create the application global variable */
 var data = [];
